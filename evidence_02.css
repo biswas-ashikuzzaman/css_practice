@@ -3,10 +3,12 @@ div{
     border: 5px solid red;
     padding: 5px;
     margin: 5px;
-    width: 400px;
-    margin: 50px;
+    max-width: 20%;
+    margin: 20px;
     float: left;
-    
+    background-image: url(Rose-1jpg.jpg);
+    color: white;
+    font-size: larger;
 }
 table{
     width: 80%;
